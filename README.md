@@ -1,2 +1,2 @@
 # MyResume
-Creating my Resume using HTML and CSS
+Intership assignment to create Resume using HTML and CSS.
